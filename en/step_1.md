@@ -1,4 +1,4 @@
-Import the type of LED that you are using from the picozero library then set the pins for an RGB LED, use the following code:
+Import RGBLED from the picozero library then set the pins for an RGB LED, use the following code:
 
 --- code ---
 ---
