@@ -1,4 +1,4 @@
-To set the pins for an RGB LED, use the following code:
+To set the pins for a common cathode RGB LED, use the following code:
 
 --- code ---
 ---
