@@ -1,4 +1,4 @@
-Import RGBLED from the picozero library then set the pins for a common cathode RGB LED, use the following code:
+Importe RGBLED à partir de la bibliothèque picozero puis définis les broches pour une LED RGB à cathode commune, en utilisant le code suivant :
 
 --- code ---
 ---
