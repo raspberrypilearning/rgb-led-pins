@@ -1,3 +1,4 @@
+---
 title: Stel de pinnen in voor een RGB-LED
 hero_image: images/banner.png
 description: Stel de pinnen voor een RGB-LED in MicroPython in met de Raspberry Pi Pico
@@ -6,5 +7,4 @@ listed: false
 copyedit: false
 last_tested: "2022-02-08"
 steps:
-  - 
-    title: Stel de pinnen in voor een RGB-LED
+  - title: Stel de pinnen in voor een RGB-LED
